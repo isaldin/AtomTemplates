@@ -9,6 +9,6 @@ for install templates.
 
 Or
 ```sh
-rake templates:install
+rake templates:uninstall
 ```
 for uninstall.
